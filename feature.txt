@@ -1,4 +1,11 @@
 Linia 1
+<<<<<<< HEAD
 HotFix
 Linia 2
 Linia 3
+=======
+Linia 2
+Linia 3
+Funkcjonalnosc w branchu feature
+Koniec funkcjonalnosci
+>>>>>>> feature
